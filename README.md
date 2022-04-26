@@ -44,12 +44,16 @@ Done!
 
 Now, you get `Sample-file-grad.cube` and `Sample-file-dens.cube` and `Sample-file.vmd` and `Sample-file.dat` to plot with VMD and Gnuplot programs.
 
-VMD (3D):  `File > New Molecule` you `load dens.cube` and `grad.cube` in turn
+## VMD (3D):  
 
-            And then, `File > Load Visualization` choose `.vmd` 
+`File > New Molecule` you `load dens.cube` and `grad.cube` in turn
+
+And then, `File > Load Visualization` choose `.vmd` 
             
-Gnuplot (2D): https://www.lct.jussieu.fr/pagesperso/contrera/ncicolormap.gnu?fbclid=IwAR2_Reuf12oXCBzphJY9Y3HSWYs6k0BJp8uN34jWSS5yoKBnyttpARL4AGM
+## Gnuplot (2D): 
+
+https://www.lct.jussieu.fr/pagesperso/contrera/ncicolormap.gnu?fbclid=IwAR2_Reuf12oXCBzphJY9Y3HSWYs6k0BJp8uN34jWSS5yoKBnyttpARL4AGM
 
 ![image](https://user-images.githubusercontent.com/69685019/165281949-4806ea8a-b54e-43d5-b8f6-95747ea3f47c.png)
 
-Rename `PhenolDimer.dat` into `Test.dat`
+Note: Rename `PhenolDimer.dat` into `Test.dat`
