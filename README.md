@@ -14,11 +14,12 @@
 
 ![image](https://user-images.githubusercontent.com/69685019/165224134-04286a8b-e700-4491-ba7f-b90dd33ec6cc.png)
 
-3. Go to an available subfolder, copy `Sample-file.nci` and edit it:
+3. Go to an available subfolder, copy `Sample-file.nci` and `Sample-file.wfn`to edit it then:
 
 ![image](https://user-images.githubusercontent.com/69685019/165229835-deac90a0-5eac-4529-b5f6-9382f98286a3.png)
 
 > **cp Sample-file.nci New-file.nci**
+> **cp Sample-file.wfn New-file.wfn**
 
 3. Go to folder ``
 
