@@ -6,7 +6,7 @@
 
 > **cd nciplot-3.0**
 
-2. Go to folder `test-cases` and list subfolders in this folder (you should create your subfolder and put .wfn files into here)
+2. Go to folder `test-cases` and list subfolders in this folder (you should create your subfolder and put .wfn files into that subfolder)
 
 > **cd test-cases**
 
@@ -16,13 +16,13 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/69685019/165224134-04286a8b-e700-4491-ba7f-b90dd33ec6cc.png)
 
-3. For create a new nci file, go to your subfolder in this folder `test-cases`, move `Sample-file.nci` to here or you could copy it from other subfolder
+3. For create a new nci file, go to your subfolder in this folder `test-cases`, move file `Sample-file.nci` to here or you could copy it from other subfolder and rename and rechange some code lines  
 
-Copy code:
+* Code for copying:
 
 > **cp Sample-file.nci New-file.nci** 
 
- Example: 
+Example: 
 
 Go to subfolder `XCHZ-nH2O` and list files in this folder
 
