@@ -6,7 +6,7 @@
 
 > **cd nciplot-3.0**
 
-2. Go to folder `test-cases` and list Subfolders in this folder
+2. Go to folder `test-cases` and list subfolders in this folder
 
 > **cd test-cases**
 
@@ -14,7 +14,11 @@
 
 ![image](https://user-images.githubusercontent.com/69685019/165224134-04286a8b-e700-4491-ba7f-b90dd33ec6cc.png)
 
-Search Subfolder 
+3. Go to an available subfolder, copy `Sample-file.nci` and edit it:
+
+![image](https://user-images.githubusercontent.com/69685019/165229835-deac90a0-5eac-4529-b5f6-9382f98286a3.png)
+
+> **cp Sample-file.nci New-file.nci**
 
 3. Go to folder ``
 
