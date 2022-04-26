@@ -21,8 +21,16 @@
 > **cp Sample-file.nci New-file.nci** <br>
 > **cp Sample-file.wfn New-file.wfn**
 
+* Rewrite name of .wfn after copying by view `test.nci`
+
+![image](https://user-images.githubusercontent.com/69685019/165256043-2d159ab1-b8c2-47df-b13d-26aa38033a4e.png)
+
+
 3. [Mix step] Back to folder `nciplot-3.0` , access folder `scr` and use nciplot program to run file `Sample-file.nci`
 
 * Note: Folder tree: nciplot-3.0/test-cases/(subfolder)/
 
 > **../../src/nciplot Sample-file.nci**
+
+![image](https://user-images.githubusercontent.com/69685019/165254269-7e49b2dd-f0be-428c-8988-b7ff38665dd7.png)
+
