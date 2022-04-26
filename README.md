@@ -1,5 +1,6 @@
 # Some codes for NCIplot on Linux
 
+
 ## An example for the software installed on @Pauli
 
 1. On user@Pauli, go to folder `nciplot-3.0`:
@@ -46,7 +47,7 @@ Now, you get `Sample-file-grad.cube` and `Sample-file-dens.cube` and `Sample-fil
 
 ## VMD (3D):  
 
-`File > New Molecule` you `load dens.cube` and `grad.cube` in turn
+`File > New Molecule` , you load `dens.cube` and `grad.cube` in turn
 
 And then, `File > Load Visualization` choose `.vmd` 
             
