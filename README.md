@@ -32,5 +32,9 @@
 
 > **../../src/nciplot Sample-file.nci**
 
-![image](https://user-images.githubusercontent.com/69685019/165254269-7e49b2dd-f0be-428c-8988-b7ff38665dd7.png)
+![image](https://user-images.githubusercontent.com/69685019/165256748-48336d6c-8eef-4514-87bc-7b79ef57b62a.png)
+
+Done!
+
+Now, you get `Sample-file-grad.cube` and `Sample-file-dens.cube` and `Sample-file.vmd` and `Sample-file.dat` to plot with VMD and Gnuplot 
 
