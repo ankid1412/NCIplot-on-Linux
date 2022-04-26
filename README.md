@@ -16,29 +16,31 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/69685019/165224134-04286a8b-e700-4491-ba7f-b90dd33ec6cc.png)
 
-3. For create a new nci file, go to your subfolder in this folder `test-cases`, move file `Sample-file.nci` to here or you could copy it from other subfolder and rename and rechange some code lines  
+3. Go to your subfolder in this folder `test-cases`, move prepared file `Sample-file.nci` to here
 
-* Code for copying:
+* For creating a new nci file, you could copy it from other subfolder and rename and rechange some code lines<br>
+    
+    * You could use Code for copying:
 
-> **cp Sample-file.nci New-file.nci** 
+          cp Sample-file.nci New-file.nci 
 
 Example: 
 
-Go to subfolder `XCHZ-nH2O` and list files in this folder
+* Go to available subfolder `XCHZ-nH2O` and list files in this folder
 
 ![image](https://user-images.githubusercontent.com/69685019/165229835-deac90a0-5eac-4529-b5f6-9382f98286a3.png)
 
-Example: 
+* Copy nci file and rename:
 
 cp bro-2h2o.nci test.nci
 
-* Rewrite name of code line "Sample-file.wfn" into "New-file.wfn" after copying by view `test.nci` and then save it
+* Rewrite name of code line `bro-2h2o.wfn` into `test.wfn` after copying by view `test.nci` and then save it (this step help nci file catch right your wfn file)
 
 ![image](https://user-images.githubusercontent.com/69685019/165256043-2d159ab1-b8c2-47df-b13d-26aa38033a4e.png)
 
-3. Back to initial folder `nciplot-3.0`, access folder `scr` and use nciplot program to run file `Sample-file.nci`
+4. Back to initial folder `nciplot-3.0`, access folder `scr` and use nciplot program to run file `Sample-file.nci`
 
-* Note: Folder tree that you had accessed: nciplot-3.0/test-cases/(subfolder)/
+* Note: Folder tree that you had accessed: nciplot-3.0/test-cases/(subfolder)/ so `../../` is how you back initial folder `nciplot-3.0`
 
 > **../../src/nciplot Sample-file.nci**
 
