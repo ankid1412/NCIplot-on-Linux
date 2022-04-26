@@ -16,7 +16,7 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/69685019/165224134-04286a8b-e700-4491-ba7f-b90dd33ec6cc.png)
 
-3. For create a new nci file, go to your subfolder in this folder `test-cases`, copy `Sample-file.nci` to edit it then
+3. For create a new nci file, go to your subfolder in this folder `test-cases`, move `Sample-file.nci` to here or you could copy it from other subfolder
 
 Copy code:
 
