@@ -16,29 +16,25 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/69685019/165224134-04286a8b-e700-4491-ba7f-b90dd33ec6cc.png)
 
-3. Go to an available subfolder, copy `Sample-file.nci` and `Sample-file.wfn` to edit it then
+3. Go to an available subfolder, copy `Sample-file.nci` to edit it then
 
 Example: 
 
-Go to subfolder `XCHZ-nH2O` 
+Go to subfolder `XCHZ-nH2O` and list files in this folder
 
 ![image](https://user-images.githubusercontent.com/69685019/165229835-deac90a0-5eac-4529-b5f6-9382f98286a3.png)
 
 > **cp Sample-file.nci New-file.nci** <br>
-> **cp Sample-file.wfn New-file.wfn**
 
 Example: 
 
 cp bro-2h2o.nci test.nci
 
-cp bro-2h2o.nci test.nci
-
-* Rewrite name of .wfn after copying from Sample by view `test.nci`
+* Rewrite name of line "Sample-file.wfn" into "New-file.wfn" after copying by view `test.nci`
 
 ![image](https://user-images.githubusercontent.com/69685019/165256043-2d159ab1-b8c2-47df-b13d-26aa38033a4e.png)
 
-
-3. [Mix step] Back to folder `nciplot-3.0` , access folder `scr` and use nciplot program to run file `Sample-file.nci`
+3. Back to folder `nciplot-3.0` , access folder `scr` and use nciplot program to run file `Sample-file.nci`
 
 * Note: Folder tree: nciplot-3.0/test-cases/(subfolder)/
 
